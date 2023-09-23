@@ -17,8 +17,11 @@
 	<Grid>
 		
 			<StackPanel Classes="title">
-				<TextBlock Classes="title"> MO </TextBlock>
-				
+				<TextBlock Classes="title"> MAMA </TextBlock>
+				<TextBlock Classes="title"> O </TextBlock>
+				<TextBlock Classes="title"> MM </TextBlock>
+				<TextBlock Classes="title"> OO </TextBlock>
+				<TextBlock Classes="title"> x </TextBlock>
 			</StackPanel>
 		
 	</Grid>
